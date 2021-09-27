@@ -1,0 +1,8 @@
+DROP TABLE IF EXISTS PRODUCT;  
+CREATE TABLE PRODUCT (  
+Product_Id VARCHAR2(50) PRIMARY KEY,  
+Product_Price INT(8) NOT NULL,  
+Product_Name VARCHAR2(50) NOT NULL,
+Product_Description VARCHAR2(50) NOT NULL,
+Product_Rating INT(1) NOT NULL,  
+);  
