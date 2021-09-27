@@ -11,10 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.cognizant.model.Product;
 import com.cognizant.service.ProductService;
 
-/**
- * @author Dhanush
- *
- */
+
 @RestController
 public class ProductController {
 

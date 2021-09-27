@@ -13,7 +13,9 @@
         <link rel="stylesheet" href="style/design.css">
         <style type="text/css">
             body {
-                background-image: url('https://unsplash.it/1600/900/?image=1068');
+                /* background-image: url('https://unsplash.it/1600/900/?image=1068'); */
+                
+                background-image: url('https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=455&w=990');
             }
         </style>
         <title> R-Store</title>
